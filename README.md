@@ -1,2 +1,2 @@
 # schedulerlib
-Simple multi time base schedule execution library
+Arduino Simple multi time base repeated schedule execution library
